@@ -1,14 +1,19 @@
-# Pensando fora da caixa com modelos de caixas
-Checkpoint Frontend I
+# Checkpoint Frontend II
 
 # Objetivo
-O objetivo é criar um site que vai falar da sua cidade. Para isso, utilize de tudo que você aprendeu até aqui! 
+O objetivo do trabalho é desenvolver habilidades na criação de formulários, animações e pseudo-seletores.
 
 # Instruções
-- Selecione uma imagem de background da sua cidade e coloque como imagem de fundo do seu body.
-- Escolha ao menos duas fontes para serem utilizadas no seu site. Use o Google Fonts.
-- Faça um Header bem bacana com uma cor da sua escolha. Esse header precisa ter de 10 a 20 píxels de padding vertical. Dentro dele estará um título com o nome da sua cidade!
-- No seu main, coloque um pequeno parágrafo falando da sua cidade. Destaque em negrito os pontos mais importantes.
-- Insira um video do youtube que fala da sua cidade. Pode ser algum festival ou comemoração. Dê uma altura e largura de 1280x720 ao seu vídeo.
-- Abaixo do vídeo escreva o título: “Curiosidades” e logo abaixo faça uma pequena lista com algumas curiosidades da sua cidade.
-- Utilize algum site de ícones para conseguir uma imagem do instagram e outra do youtube. Nesses ícones, faça o link com os canais oficiais da sua cidade, se não houver, coloque links do seu gosto.
+1. O trabalho deve ser realizado em grupo de no máximo 3 pessoas.
+2. O formulário de cadastro deve ter no mínimo os inputs:
+    a. Nome (com no máximo 100 caracteres)
+    b. Email 
+    c. Telefone (apenas números)
+    d. Data de nascimento (data)
+    e. Se é maior ou menor de idade (deve ter as duas opções, podendo marcar apenas uma delas).
+    f. Um campo que permita que o usuário selecione um ponto de interesse na sua cidade. (De uma lista de no mínimo 3).
+    g. Um campo opcional onde o usuário poderá dizer quais seus interesses na cidade: Turista, Residente e Estudante. Note que o usuário pode escolher nenhum ou mais que um.
+    h. O formulário deve ter um botão para enviar e um botão para resetar os dados digitados.
+3. O formulário deve ter uma animação onde quando o usuário passa o cursor do mouse sobre o campo e o campo aumenta de tamanho. 
+4. Você tem total liberdade para animar e colorir o seu formulário, então use e abuse da sua criatividade
+
