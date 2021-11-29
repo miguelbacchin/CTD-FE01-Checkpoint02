@@ -40,10 +40,7 @@ body {
     margin-top: 2%;
 }
 
-input,
-select,
-textarea,
-option {
+input, select, textarea, option {
     border-radius: 5px;
     border: none;
     background: #d7d8da;
@@ -104,7 +101,7 @@ option {
     font-weight: bold;
     background-color: rgb(143, 143, 143);
     color: white;
-    padding: 5px 150px;
+    padding: 5px 138px;
     margin-top: 10px;
     border-radius: 10px;
     border-width: 0px;
@@ -116,6 +113,6 @@ option {
     background: linear-gradient(45deg, #bebebe, #646464);
     transform: scale(1.04);
     border-radius: 25px;
-    padding: 5px 150px;
+    padding: 5px 133px;
     font-size: 18px;
 }
